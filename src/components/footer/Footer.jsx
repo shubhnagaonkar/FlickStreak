@@ -22,7 +22,7 @@ const Footer = () => {
                     <li className="menuItem">FAQ</li>
                 </ul>
                 <div className="infoText">
-                At Fimlyverse, we believe that every viewer deserves to know what they're getting into before they hit play. That's why we've created a platform where you can find ratings and reviews for movies and TV shows, all in one place. Our community of passionate fans and knowledgeable critics will help guide you to the perfect viewing experience. So sit back, relax, and let Fimlyverse be your trusted source for all things entertainment.
+                At FlickStreak, we believe that every viewer deserves to know what they're getting into before they hit play. That's why we've created a platform where you can find ratings and reviews for movies and TV shows, all in one place. Our community of passionate fans and knowledgeable critics will help guide you to the perfect viewing experience. So sit back, relax, and let FlickStreak be your trusted source for all things entertainment.
                 </div>
                 <div className="socialIcons">
                     <span className="icon">
