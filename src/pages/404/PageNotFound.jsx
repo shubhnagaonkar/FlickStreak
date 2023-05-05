@@ -13,6 +13,6 @@ const PageNotFound = () => {
             </ContentWrapper>
         </div>
     );
-};
+}
 
-export default PageNotFound;
+export default PageNotFound
